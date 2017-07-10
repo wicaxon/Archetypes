@@ -9,7 +9,7 @@ Web app features :
 - Jetty plugin.
 - Spring MVC.
 - log4j2.
-- test url : http://localhost:8080/artifactId/hello
+- test url : http://localhost:8080/hello
 
 Java Library :
 - log4j2.
