@@ -6,7 +6,7 @@ Java app features :
 - log4j2.
 
 Web app features :
-- Jetty plugin.
+- Tomcat7 plugin.
 - Spring MVC.
 - log4j2.
 - test url : http://localhost:8080/hello
