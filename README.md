@@ -14,5 +14,5 @@ Web app features :
 Java Library :
 - log4j2.
 
-Install using : mvn install
+Install using : mvn install<br/>
 To create project, run : mvn archetype:generate -DarchetypeCatalog=local
