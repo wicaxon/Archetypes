@@ -1,4 +1,4 @@
-3 Maven Archetypes to create java app, web app, and java library.
+4 Maven Archetypes to create : java app, java library, web app with spring mvc, web app with spring boot.
 
 Java app features :
 - Shade plugin.
@@ -7,9 +7,9 @@ Java app features :
 
 Web app features :
 - Tomcat7 plugin.
-- Spring MVC.
+- Spring MVC / Spring Boot
 - log4j2.
-- test url : http://localhost:8080/hello
+- test url : http://localhost:8080/
 
 Java Library :
 - log4j2.
