@@ -18,8 +18,9 @@
 
   <modules>
 	<module>archetype-lib</module>
-	<module>archetype-webapp</module>
 	<module>archetype-app</module>
+	<module>archetype-webapp</module>
+	<module>archetype-webapp-springboot</module>
   </modules>
 
   <properties>
