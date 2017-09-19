@@ -16,3 +16,4 @@ Java Library :
 
 Install using : mvn install<br/>
 To create project, run : mvn archetype:generate -DarchetypeCatalog=local
+To run project, run : mvn tomcat7:run
