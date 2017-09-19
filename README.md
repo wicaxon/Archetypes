@@ -10,7 +10,7 @@ Web app features :
 - Spring MVC / Spring Boot
 - log4j2.
 - run project : mvn tomcat7:run / mvn spring-boot:run
-- spring boot project also can be run by executing jar file : java -jar <artifactId>.jar
+- spring boot project also can be run by executing jar file : java -jar (artifactId).jar
 - test url : http://localhost:8080/
 
 Java Library :
