@@ -21,6 +21,7 @@
 	<module>archetype-app</module>
 	<module>archetype-webapp</module>
 	<module>archetype-webapp-springboot</module>
+	<module>archetype-rest-springboot</module>	
   </modules>
 
   <properties>
