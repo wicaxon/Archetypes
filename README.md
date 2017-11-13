@@ -1,4 +1,4 @@
-4 Maven Archetypes to create : java app, java library, web app with spring mvc, web app with spring boot.
+5 Maven Archetypes to create : java app, java library, web app with spring mvc, web app with spring boot, rest service with spring boot.
 
 Java app features :
 - Shade plugin.
